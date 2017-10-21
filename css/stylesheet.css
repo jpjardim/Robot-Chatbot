@@ -1,0 +1,35 @@
+#changeText{
+    color: black;
+    font-size: 30px;
+    font-family: Consolas, monaco, monospace;
+    display: inline-block;
+}
+
+.cursor{
+      display: inline-block;
+}
+
+.jumbotron{
+    background-color: white;
+}
+
+#log {
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 25px;
+}
+
+.content{
+    display:none;
+}
+
+#msg{
+   border-radius: 25px; 
+}
+
+#header1{
+    color: black;
+    font-size: 30px;
+    font-family: Consolas, monaco, monospace;
+    text-align: center;
+}
