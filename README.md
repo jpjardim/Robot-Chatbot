@@ -1,6 +1,6 @@
 # Robot-Chatbot
 
-Personal assistant Web Application that take in commands from the users and react to it. This App was made for a college assignment and it was required that it should be done in a single PHP page (no redirection) and that the reaction to a user command would occur after pressing 'enter'.Link for live Web App: https://c3rpbmo.000webhostapp.com/
+Personal assistant Web Application that take in commands from the users and react to it. This App was made for a college assignment and it was required that it should be done in a single PHP page (no redirection) and that the reaction to a user command would occur after pressing 'enter'. Link for live Web App: https://c3rpbmo.000webhostapp.com/
 
 ## Prerequisites
 
